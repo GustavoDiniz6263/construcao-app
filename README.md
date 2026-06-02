@@ -43,7 +43,7 @@ Node.js e NPM
 MySQL ativo
 ⚙️ Instalação
 # 1. Clonar o repositório
-git clone https://github.com/Denardi28/materiais-app
+git clone https://github.com/GustavoDiniz6263/construcao-app
 
 # 2. Entrar na pasta do projeto
 cd materiais-app
